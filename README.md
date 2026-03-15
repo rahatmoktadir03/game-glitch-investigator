@@ -58,8 +58,11 @@ The app is a Streamlit number-guessing game where the player picks a difficulty 
 
 ## 📸 Demo
 
-- [ ] [Insert a screenshot of your fixed, winning game here]
-- [ ] [Insert a screenshot of `pytest` output with all tests passing]
+- [x] **Winning Game with Challenge 4 UI**
+      ![GAME UI](GAME%20UI.png)
+
+- [x] **Pytest Results (7 Tests Passing)**
+      ![Pytest Output](Pytest.png)
 
 ## 🚀 Stretch Features
 
